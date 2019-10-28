@@ -23,7 +23,7 @@ Nowadays, sports events live above all from their media coverage, which includes
 &emsp; \>\>\> &emsp;[Project description](/nflstatistics)<br>
 &emsp; \>\>\> &emsp;[Jupyter notebook](/wrangling) (ML model)<br>
 &emsp; \>\>\> &emsp;[R notebook](/wrangling) (Visualizations)<br>
-&emsp; \>\>\> &emsp;[GitHub repository](https://github.com/dgluesen/relevance-nfl-stats)
+&emsp; \>\>\> &emsp;[GitHub repository](https://github.com/dgluesen/relevance-nfl-statistics)
 
 ---
 
