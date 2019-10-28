@@ -33,7 +33,7 @@ Nowadays, sports events live above all from their media coverage, which includes
 
 How can I share my own professional experience with Master's students in business analytics and data science? Encourage them to self-reflect? I asked myself this question recently when I was invited to give a guest lecture at a university of applied sciences. My approach is to adapt the CRISP-DM process model which is familiar to many students and practitioners in the field of data science.
 
-&emsp; \>\>\> &emsp;[Article](https://github.com/dgluesen/datascience-career-crisp-dm/blob/master/article.md)<br>
+&emsp; \>\>\> &emsp;[Article](https://dgluesen.github.io/datascience-career-crisp-dm/)<br>
 
 ---
 
