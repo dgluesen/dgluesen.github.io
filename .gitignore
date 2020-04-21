@@ -118,6 +118,10 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# R projects
+.RData
+.Rhistory
+
 # Rope project settings
 .ropeproject
 
